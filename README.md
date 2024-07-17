@@ -1,4 +1,4 @@
-# Text-Classification-using-NLP
+# Text-Classification-using-NLP 
 
 This project performs sentiment analysis on IMDB movie reviews using various natural language processing techniques 
 and machine learning models. It preprocesses the data, trains classifiers, evaluates their performance, and visualizes the results.
@@ -54,3 +54,5 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
 
 - [StemAway](https://stemaway.com/home)
 - [Code Along for F-IE-1: Text Classification using NLP](https://stemaway.com/t/code-along-for-f-ie-1-text-classification-using-nlp/16302/1)
+
+- [![Hits](https://hits.sh/github.com/Ahmeds-Data/Text-Classification-using-NLP.git.svg?label=views&color=cc11ac)](https://hits.sh/github.com/Ahmeds-Data/Text-Classification-using-NLP.git/)
