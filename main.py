@@ -1,6 +1,4 @@
-from text_preprocessing import TextPreprocessor
-from text_classification import TextClassifier
-from text_visualization import TextVisualizer
+from src import *
 import warnings
 
 warnings.filterwarnings("ignore", category=UserWarning)
