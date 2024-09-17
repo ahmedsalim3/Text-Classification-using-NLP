@@ -8,7 +8,7 @@ importlib_resources==6.4.0
 joblib==1.4.2
 kiwisolver==1.4.5
 matplotlib==3.7.5
-nltk==3.8.1
+nltk==3.9
 numpy==1.24.4
 packaging==24.1
 pandas==2.0.3
