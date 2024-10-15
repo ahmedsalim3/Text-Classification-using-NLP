@@ -16,8 +16,8 @@ and machine learning models. It preprocesses the data, trains classifiers, evalu
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/sentiment-analysis-imdb.git
-   cd sentiment-analysis-imdb
+   git https://github.com/ahmedsalim3/Text-Classification-using-NLP.git
+   cd Text-Classification-using-NLP
    ```
 2. **Download Dataset**:
    - Download the IMDB dataset from [Stanford AI Lab](http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz).
