@@ -16,7 +16,7 @@ and machine learning models. It preprocesses the data, trains classifiers, evalu
 1. **Clone the Repository**:
 
    ```bash
-   git https://github.com/ahmedsalim3/Text-Classification-using-NLP.git
+   git clone https://github.com/ahmedsalim3/Text-Classification-using-NLP.git
    cd Text-Classification-using-NLP
    ```
 2. **Download Dataset**:
